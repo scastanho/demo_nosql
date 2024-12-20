@@ -1,28 +1,28 @@
-#How can this API be used?
+# demo_nosql
+# How can this API be used?
 
 You can use the methods below:
 
-#GET
-##List all users:
+# GET
+## List all users:
 
-Example url: http://localhost:8080/users
+Example URL: http://localhost:8080/users 
+Notice: Be careful with the quantity, paging needs to be implemented.
+Use headers: If the headers are null, only the first 100 records will be returned.
+Example Header: Quantity = 100
 
-(be careful with the quantity).
+## Get a specific user by ID:
 
-Use headers: If header is null, only the first 100 records will be returned.
+Example URL: http://localhost:8080/users/101
 
-##Get a specific user by ID:
+# POST
+## Authenticate a specific user:
 
-Example url: http://localhost:8080/users/101
-
-#POST
-##Authenticate a specific user:
-
-Example url: http://localhost:8080/users/validate
+Example URL: http://localhost:8080/users/validate
 Header: Authorization = user:pass
 
-#PUT
-##Record a new user in the collection.
+# PUT
+## Record a new user in the collection.
 
-Example url: "Still needs to be implemented."
-# demo_nosql
+Example URL: "Still needs to be implemented."
+
