@@ -1,6 +1,5 @@
-# demo_nosql
-# How can this API be used?
-
+# MONGODB DEMO
+## How can this API be used?
 You can use the methods below:
 
 # GET
