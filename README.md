@@ -6,7 +6,7 @@ Follow the instructions below:
 
 ## Local installation prerequisites
 
-1-Install the MongoDB application on your desktop.
+1-Install the MongoDB application on your desktop.\n
 2-Start the Windows service.
 3-Download and import the project into the IDE (IntelliJ or Eclipse (newer versions).
 4-Import the pom.xml dependencies.
