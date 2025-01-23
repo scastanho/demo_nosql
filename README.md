@@ -1,4 +1,4 @@
-# MONGODB DEMO
+# JAVA + MONGODB DEMO
 
 This project has the sole purpose of demonstrating Java technology and data storage in NoSQL format. 
 
