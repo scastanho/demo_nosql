@@ -8,7 +8,7 @@ Follow the instructions below:
 
 - Install the MongoDB application on your desktop.
 - Start the Windows service.
-- Download and import the project into the IDE (IntelliJ or Eclipse (newer versions).
+- Download and import the project into the IDE IntelliJ or Eclipse (newer versions).
 - Import the pom.xml dependencies.
 - Install the PostMan software to test the available GET,POST and PUT methods.
 
