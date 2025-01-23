@@ -6,11 +6,11 @@ Follow the instructions below:
 
 ## Local installation prerequisites
 
-1-Install the MongoDB application on your desktop.\n
-2-Start the Windows service.
-3-Download and import the project into the IDE (IntelliJ or Eclipse (newer versions).
-4-Import the pom.xml dependencies.
-5-Install the PostMan software to test the available GET,POST and PUT methods.
+- Install the MongoDB application on your desktop.
+- Start the Windows service.
+- Download and import the project into the IDE (IntelliJ or Eclipse (newer versions).
+- Import the pom.xml dependencies.
+- Install the PostMan software to test the available GET,POST and PUT methods.
 
 ## How can this API be used?
 You can use the methods below:
